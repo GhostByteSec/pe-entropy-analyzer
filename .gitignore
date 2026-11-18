@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local samples and archives: never commit these
+samples/
+malware/
+*.exe
+*.dll
+*.sys
+*.scr
+*.bin
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.vmdk
+*.vdi
